@@ -1,0 +1,7 @@
+client:
+    url: "https://homologacao.ginfes.com.br/ServiceGinfesImpl"
+
+certificate:
+  file:
+    path: "src/main/resources/certificate.pfx"
+    password: "certificatePassword"
